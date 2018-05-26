@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "140490186611",
+    "firebase_url": "https://first-d5ac6.firebaseio.com",
+    "project_id": "first-d5ac6",
+    "storage_bucket": "first-d5ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140490186611:android:29dea0f60c55f8e1",
+        "android_client_info": {
+          "package_name": "com.example.bhavesh.traffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140490186611-597hjq1n64hs88hflpmerrem7leg2opd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9i1v4Jjv8rOzbQSBE7uSHxzxy4a9kFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140490186611:android:b613e150a117f164",
+        "android_client_info": {
+          "package_name": "com.example.bhavesh.traffic.myApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140490186611-a1ph2v4afigekrlv18prgd98vhju9mud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavesh.traffic.myApp",
+            "certificate_hash": "e2ca2be54da7b23217fccc75345987aed690cf7a"
+          }
+        },
+        {
+          "client_id": "140490186611-597hjq1n64hs88hflpmerrem7leg2opd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9i1v4Jjv8rOzbQSBE7uSHxzxy4a9kFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140490186611-597hjq1n64hs88hflpmerrem7leg2opd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140490186611:android:e7188e21da96e888",
+        "android_client_info": {
+          "package_name": "com.example.bhavesh.roadtraffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140490186611-rfmu8hos26am73cmi67gc3fslbjv0cgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavesh.roadtraffic",
+            "certificate_hash": "e2ca2be54da7b23217fccc75345987aed690cf7a"
+          }
+        },
+        {
+          "client_id": "140490186611-597hjq1n64hs88hflpmerrem7leg2opd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9i1v4Jjv8rOzbQSBE7uSHxzxy4a9kFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140490186611-597hjq1n64hs88hflpmerrem7leg2opd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

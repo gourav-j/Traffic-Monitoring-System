@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\a95f7c003294699aa01c721083c8fee9a63b5145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\RoadTraffic\app\build\intermediates\pre-dexed\debug\classes_039b1b782c8561d3906bc64152d053e80d337bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\5d2e6995a40b786957ec691fac6266324b41d44c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\RoadTraffic\app\build\intermediates\pre-dexed\debug\classes_fbec4dc397171c055546eef3b5f5a9b2807defc9.jar" />
+    </item>
+
+</items>
